@@ -1,3 +1,13 @@
+
+
+
+
+
+
+
+
+
+
 """
 Django settings for djangoapp project.
 
@@ -37,6 +47,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'tasks',
 ]
 
 MIDDLEWARE = [
